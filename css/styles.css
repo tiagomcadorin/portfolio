@@ -155,7 +155,7 @@ background: transparent !important;
     }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #04193a;
+    color: #fff;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
