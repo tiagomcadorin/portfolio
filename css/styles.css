@@ -131,7 +131,7 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: #CC4646;
+    background: #04193a;
     z-index: 50;
     border-radius: 0;
     top: 0px;
@@ -140,7 +140,7 @@ margin: 4px;
 
 .navbar-inverse .navbar-toggle {
     border-color: #CC4646;
-    background-color: #CC4646;
+    background-color: #04193a;
 }
 .header .navbar {
 margin: 0;
